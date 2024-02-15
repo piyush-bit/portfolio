@@ -1,0 +1,8 @@
+.blur-background{
+  backdrop-filter: blur(60px);
+  /* background-color: rgba(102, 102, 102, 0.03); */
+}
+
+* {
+  box-sizing: border-box;
+}
